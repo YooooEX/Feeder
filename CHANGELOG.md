@@ -1,0 +1,40 @@
+这是 `Feeder` 的更新日志留档.
+
+## 1.3.5 ##
+
+```
+搜索订阅增加预览内容功能.
+完善详情点击事件.
+细节完善.
+
+Now can preview subscription content in subscription search view.
+Improve detail click event.
+Minor improvement.
+```
+
+## 1.3.4 ##
+
+```
+现在能在订阅管理中搜索并添加订阅了.
+细节完善.
+
+Add ability to search and add subscriptions in subscription manage view.
+Minor bugfix and improvement.
+```
+
+## 1.3.3 ##
+```
+增加 OAuth 登录
+更新了条目长按操作和订阅编辑操作的界面
+改善刘海屏设备的适配
+
+Now support OAuth login
+Improve UI of subscprition edit and item long press action
+Improve UI on notch devices
+```
+
+## 1.3.0 ##
+
+```
+Rewritten with kotlin.
+```
