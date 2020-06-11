@@ -1,5 +1,17 @@
 这是 `Feeder` 的更新日志留档.
 
+## 1.3.6 ##
+
+```
+完善详情样式
+现在在详情可以打开带链接的图片(长按图片显示菜单)
+从 Fabric 迁移到 Firebase Crashlytics
+
+Improve detail style.
+Now can long press image to show options menu if this image contains a link.
+Migrate Fabric to Firebase Crashlytics
+```
+
 ## 1.3.5 ##
 
 ```
