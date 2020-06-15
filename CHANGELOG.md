@@ -1,5 +1,14 @@
 这是 `Feeder` 的更新日志留档.
 
+## 1.3.7 ##
+```
+增加启动时同步(在设置中调整选项)
+细节优化
+
+Now can sync on startup(config in settings)
+Minor improvement
+```
+
 ## 1.3.6 ##
 
 ```
