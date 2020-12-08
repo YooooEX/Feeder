@@ -1,5 +1,23 @@
 这是 `Feeder` 的更新日志留档.
 
+## 1.3.8 ##
+```
+完善内置浏览器的界面样式
+在使用 OAuth 登录时,定时更新 OAuth token
+完善 token 超时处理逻辑
+弃用 kotlin-android-extensions, 启用 kotlin-parcelize
+从 Kotlin Synthetics 迁移到 Jetpack View Binding
+更新依赖
+
+Improve Integrated Browser UI
+Enable auto retrieve token via OAuth login method
+Improve token expired scene
+Migrate from Kotlin Synthetics to ViewBinding
+Migrate Kotlin Parcel plugin
+Remove deprecated plugin
+Upgrade dependencies
+```
+
 ## 1.3.7 ##
 ```
 增加启动时同步(在设置中调整选项)
