@@ -1,5 +1,16 @@
 这是 `Feeder` 的更新日志留档.
 
+## 1.3.9 ##
+```
+UI调整
+依赖更新
+添加隐私与安全条款
+
+optimize UI
+upgrade dependencies
+add privacy terms
+```
+
 ## 1.3.8 ##
 ```
 完善内置浏览器的界面样式
